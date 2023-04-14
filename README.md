@@ -1,2 +1,2 @@
 # DL-World
-Deep Learning Theory and Implementation
+Deep Learning Theory and Projects Implementation
